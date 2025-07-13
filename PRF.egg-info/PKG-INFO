@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: PRF
+Version: 0.1.dev0
+Summary: Probabilistic Random Forest
+Author: Itamar Reis, Dalya Baron
+Author-email: itamarreis@mail.tau.ac.il, dalyabaron@gmail.com
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: numba
+Requires-Dist: joblib
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
